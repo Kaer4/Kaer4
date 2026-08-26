@@ -1,11 +1,15 @@
-Hi 👋 My name is Aidan Sakuma
+Hey 👋 My name is Aidan Sakuma
 =============================
 
-SWE
+Junior SWE
 ---
+I'm a Computer Science graduate from Columbia University (Fu Foundation School of Engineering), focused on applied AI. Recent work includes a plant disease detector combining ResNet-50 with a handcrafted 215-feature CV pipeline, and a song recommender comparing SBERT/Word2Vec embeddings against fine-tuned LLMs. I also enjoy building creative projects outside of ML such as a browser-based DJ mixer with a custom phase vocoder for real-time beat-matching.
+
+Tools I reach for: PyTorch, scikit-learn, PostgreSQL, FastAPI, and increasingly Claude Code as part of my workflow.
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [aidansakuma@gmail.com](mailto:aidansakuma@gmail.com)
+* * 🚀  I'm currently working on [LeRebot AI Arm SO-ARM101 Experiments]
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="Rust" title="Rust" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
