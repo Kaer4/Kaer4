@@ -5,7 +5,7 @@ Junior SWE
 ---
 I'm a Computer Science graduate from Columbia University (Fu Foundation School of Engineering), focused on applied AI. Recent work includes a plant disease detector combining ResNet-50 with a handcrafted 215-feature CV pipeline, and a song recommender comparing SBERT/Word2Vec embeddings against fine-tuned LLMs. I also enjoy building creative projects outside of ML such as a browser-based DJ mixer with a custom phase vocoder for real-time beat-matching.
 
-Tools I reach for: PyTorch, scikit-learn, PostgreSQL, FastAPI, and increasingly Claude Code as part of my workflow.
+Tools I enjoy working with: PyTorch, scikit-learn, PostgreSQL, FastAPI, and increasingly Claude Code.
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [aidansakuma@gmail.com](mailto:aidansakuma@gmail.com)
